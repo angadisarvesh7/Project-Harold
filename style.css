@@ -10,3 +10,6 @@
 .Contact{
     margin-left: 10%;
 }
+#nav-bar {
+    position: fixed;
+}
