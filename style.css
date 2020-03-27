@@ -1,6 +1,11 @@
 .logo{
+   
     color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-top: 1%;
 }
+
 .menu{
     margin-left: 200%;
 }
@@ -9,4 +14,7 @@
 }
 .Contact{
     margin-left: 10%;
+}
+.navbar{
+    max-height: 70px;
 }
